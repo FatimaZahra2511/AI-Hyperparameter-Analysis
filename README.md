@@ -14,8 +14,6 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 
 ## Steps to Follow
 ### Step 1: Review Resources
-- Study the materials from Sessions 27 and 28.
-- Watch the tutorial video: [CNN Training Video](https://youtu.be/J1jhfAw5Uvo).
 - Download the source code from the video and test it on Google Colab or a local machine.
 
 ### Step 2: Set Up the Environment
