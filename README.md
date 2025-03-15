@@ -1,16 +1,4 @@
 # AI-Hyperparameter-Analysis
-This project involves building a Convolutional Neural Network (CNN) to classify images using the CIFAR-10 dataset. The model is trained with different hyperparameters and network architectures to evaluate their impact on classification performance.
-
-## Project Objectives
-
-1- Build a CNN model by defining various layers and connections.
-2- Train the model using the CIFAR-10 dataset from Kaggle.
-3- Compute accuracy during training and evaluate final performance.
-4- Experiment with different hyperparameters and network architectures.
-5- Plot the performance of the model based on the chosen hyperparameter.
-6- Select the best-performing model and use it to classify 10 images.
-7- Present results using a confusion matrix.
-
 
 ## Overview
 This project involves building a Convolutional Neural Network (CNN) to classify images using the CIFAR-10 dataset. The model is trained with different hyperparameters and network architectures to evaluate their impact on classification performance.
@@ -69,7 +57,6 @@ AI-Hyperparameter-Analysis/
 ├── Filter.ipynb           # Filter optimization
 ├── LearningRate.ipynb     # Learning rate adjustment
 ├── Matrix.ipynb           # Matrix computations
-├── Project 4 report.pdf   # Project report
 ├── LICENSE                # License file
 └── README.md              # Documentation
 ```
