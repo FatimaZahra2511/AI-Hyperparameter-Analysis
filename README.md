@@ -44,20 +44,7 @@ pip install tensorflow keras numpy matplotlib seaborn scikit-learn
 - Infer the class of 10 selected images.
 - Present the results in a confusion matrix.
 
-## Project Structure
-```
-AI-Hyperparameter-Analysis/
-├── Accuracy1.ipynb        # Accuracy analysis 1
-├── Accuracy2.ipynb        # Accuracy analysis 2
-├── Accuracy3.ipynb        # Accuracy analysis 3
-├── BatchSize.ipynb        # Batch size impact
-├── DropoutRate.ipynb      # Dropout rate tuning
-├── Filter.ipynb           # Filter optimization
-├── LearningRate.ipynb     # Learning rate adjustment
-├── Matrix.ipynb           # Matrix computations
-├── LICENSE                # License file
-└── README.md              # Documentation
-```
+
 
 ## License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
