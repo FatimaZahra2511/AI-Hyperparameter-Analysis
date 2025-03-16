@@ -46,6 +46,3 @@ pip install tensorflow keras numpy matplotlib seaborn scikit-learn
 
 
 
-## License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
